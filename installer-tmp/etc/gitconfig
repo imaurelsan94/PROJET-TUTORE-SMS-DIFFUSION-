@@ -1,0 +1,5 @@
+[core]
+	symlinks = false
+	autocrlf = input
+[http]
+	sslCAinfo = C:/PROJETS/installer-tmp/bin/curl-ca-bundle.crt
